@@ -45,4 +45,3 @@ fields:
       required: true
 pages:
   - src/pages/blog/green.md
-  - src/pages/blog/interior-designer.md
